@@ -1,7 +1,5 @@
 
 print("Hello git!!")
 
-print("We are Venom.")
+print("hi!!!!!!!!!!!")
 
-print("Thanks")
-print("asdfasf")
